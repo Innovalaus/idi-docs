@@ -1,0 +1,67 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Informe</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 11pt;
+      line-height: 1.45;
+      color: #222;
+      margin: 40px;
+    }
+    h1 {
+      font-size: 22pt;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    h2 {
+      font-size: 16pt;
+      margin-top: 28px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 4px;
+    }
+    h3 {
+      font-size: 13pt;
+      margin-top: 20px;
+    }
+    p {
+      margin: 0 0 12px 0;
+    }
+    ol {
+      margin-top: 12px;
+      padding-left: 24px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 16px 0;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px 8px;
+      vertical-align: top;
+    }
+    th {
+      background: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+<h1>ACREDITACIÓN EN I+D+i</h1>
+<p>VALORIX LOAN MARKETPLACE SL desarrolla actividades vinculadas a la investigación, el desarrollo y la innovación en fintech y servicios financieros. Su actividad incluye el diseño, desarrollo, mejora, validación o aplicación de soluciones tecnológicas y digitales, con un componente innovador relevante.</p>
+<p>Asimismo, la compañía destina recursos técnicos y/o económicos a desarrollo tecnológico y software propio, así como a innovación de producto y a la colaboración con entidades especializadas, lo que permite acreditar una actividad orientada a la generación de conocimiento, mejora de capacidades o desarrollo de nuevos productos, servicios o procesos.</p>
+<p>Para acreditar la condición de empresa que realiza inversiones en I+D+i, adjuntamos los siguientes documentos:</p>
+<ol>
+<li>02_IDI.pdf — Descripción profesional: Informe técnico de I+D+i que resume las líneas de actuación, los recursos humanos y técnicos y los elementos de innovación asociados a VALORIX LOAN MARKETPLACE SL.</li>
+<li>Documento convocatoria castellano.PDF — Descripción profesional: Convocatoria y criterios de elegibilidad aplicables a las actuaciones de I+D+i, en castellano.</li>
+<li>N/A — Descripción profesional: Documento adicional no disponible en el expediente.</li>
+</ol>
+
+</body>
+</html>
